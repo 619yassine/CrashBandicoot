@@ -31,7 +31,7 @@ Avant de cloner et de travailler sur ce projet, assurez-vous d'avoir installé l
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/Joris07/CrashBandicoot.git
+   git clone https://github.com/619yassine/CrashBandicoot.git
    ```
 
 2. Accédez au répertoire du projet :
